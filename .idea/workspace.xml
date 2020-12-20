@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00ddc4ee-ad79-4aea-84c2-5e007a01d28c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ljOMFBMXGEQaql4GPHImk3OvHD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\servletTest\web\WEB-INF\lib" />
+      <recent name="E:\servletTest\src" />
+      <recent name="E:\servletTest\web" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UserDaoTest.testLogin">
+    <configuration name="UserDaoTest.testLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="servletTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mwj.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mwj.test" />
+      <option name="MAIN_CLASS_NAME" value="com.mwj.test.UserDaoTest" />
+      <option name="METHOD_NAME" value="testLogin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.41" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.41" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="servletTest:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/servletTest_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="servletTest:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserDaoTest.testLogin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00ddc4ee-ad79-4aea-84c2-5e007a01d28c" name="Default Changelist" comment="" />
+      <created>1608106986367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608106986367</updated>
+      <workItem from="1608106995139" duration="6783000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="101" key="#com.intellij.ide.util.MemberChooser" timestamp="1608108061754">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="101" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1608108061754" />
+    <state width="1493" height="459" key="GridCell.Tab.0.bottom" timestamp="1608124886924">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="459" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1608124886924" />
+    <state width="1493" height="459" key="GridCell.Tab.0.center" timestamp="1608124886924">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="459" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1608124886924" />
+    <state width="1493" height="459" key="GridCell.Tab.0.left" timestamp="1608124886924">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="459" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1608124886924" />
+    <state width="1493" height="459" key="GridCell.Tab.0.right" timestamp="1608124886924">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="459" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1608124886924" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1608124674499">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1608124674499" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1608124674499">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1608124674499" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1608124674499">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1608124674499" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1608124674499">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1608124674499" />
+    <state x="485" y="311" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1608122864673">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="485" y="311" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.834@0.0.1536.834" timestamp="1608122864673" />
+  </component>
+</project>
